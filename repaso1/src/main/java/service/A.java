@@ -7,8 +7,8 @@ public class A {
         this.b1 = b1;
     }
 
-    public A( ) {
-        this( new B () );
+    public A() {
+        this(new B());
     }
 
     public B getB1() {
